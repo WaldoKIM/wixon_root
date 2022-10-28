@@ -26,7 +26,7 @@ class App extends React.Component {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1>Hello There!!!</h1>
-        <p>윅슨 리액트 테스트</p>
+        <p>윅슨 리액트 테스트3!!!!!!!!!</p>
         <h3>Hey!  It's {this.state.day}</h3>
         <a
           className="App-link"
